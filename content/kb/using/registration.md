@@ -3,7 +3,7 @@ Title: Nickname Registration
 Your nick is how people on freenode know you. If you register it, you'll be able to use the same nick over and over. If you don't register, someone else may end
 up registering the nick you want. If you register and use the same nick, people will begin to know you by reputation.
 
-If a channel is set to mode +r, you won't be able to join it unless you are registered and identified to NickServ. If you try to join, you might be forwarded to
+If a channel is set to [mode](kb/answer/channelmodes) +r, you won't be able to join it unless you are registered and identified to NickServ. If you try to join, you might be forwarded to
 a different channel. If a channel is set to quiet unregistered users (mode `+q $~a`), you won't be able to speak while on that channel unless you are registered
 and identified. Both of these modes are used by some channels to reduce channel harassment and abuse.
 
